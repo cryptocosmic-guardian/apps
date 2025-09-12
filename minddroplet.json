@@ -1,0 +1,46 @@
+{
+  "name": "Mind Droplet",
+  "packageId": "com.minddroplet.app",
+  "description": "Um app para foco e bem-estar mental.",
+  "version": {
+    "releaseNotes": "Correções de bugs e melhorias de desempenho.",
+    "versionCode": 6,
+    "versionName": "1.4.1",
+    "releaseDate": "2025-09-12"
+  },
+  "privacyTerms": {
+    "privacyPolicy": "base64",
+    "termsOfUse": "base64"
+  },
+  "developer": {
+    "name": "Seu Nome ou Empresa",
+    "email": "contato@minddroplet.com",
+    "website": "https://minddroplet.com"
+  },
+  "store": {
+    "googlePlay": "https://play.google.com/store/apps/details?id=com.minddroplet.app",
+    "appStore": "https://apps.apple.com/app/id123456789"
+  },
+  "assets": {
+    "icon": "base64",
+    "featureGraphic": "base64",
+    "screenshots": [
+      "base64_img1",
+      "base64_img2"
+    ]
+  },
+  "config": {
+    "minSdk": 24,
+    "targetSdk": 34,
+    "languages": ["en", "pt", "es"],
+    "theme": "light|dark"
+  },
+  "permissions": [
+    "INTERNET",
+    "NOTIFICATIONS"
+  ],
+  "links": {
+    "support": "https://minddroplet.com/support",
+    "faq": "https://minddroplet.com/faq"
+  }
+}
