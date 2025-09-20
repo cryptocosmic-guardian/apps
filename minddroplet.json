@@ -9,7 +9,7 @@
     "releaseDate": "2025-09-12"
   },
   "urlsApis": {
-    "correctionURL" : "String",
+    "correctionURL" : "https://notepad.namsogen.top:8443/correct",
     "reportURL" : "String",
     "URLofthoughts" : "String"
   }
