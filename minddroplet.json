@@ -10,7 +10,7 @@
   },
   "urlsApis": {
     "correctionURL" : "https://notepad.namsogen.top:8443/correct",
-    "reportURL" : "String",
+    "reportURL" : "https://notepad.namsogen.top:8443/relatorio",
     "URLofthoughts" : "String"
   }
   "privacyTerms": {
