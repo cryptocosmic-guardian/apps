@@ -11,7 +11,7 @@
   "urlsApis": {
     "correctionURL" : "https://notepad.namsogen.top:8443/correct",
     "reportURL" : "https://notepad.namsogen.top:8443/relatorio",
-    "URLofthoughts" : "String"
+    "URLofthoughts" : "https://notepad.namsogen.top:8443/lotes"
   }
   "privacyTerms": {
     "privacyPolicy": "base64",
